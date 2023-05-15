@@ -387,55 +387,6 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .left .html::before{
-    width: 90%;
-}
-.skills-content .right .css::before{
-    width: 90%;
-}
-.skills-content .left .bootstrap::before{
-    width: 90%;
-}
-.skills-content .right .js::before{
-    width: 70%;
-}
-.skills-content .left .jquery::before{
-    width: 70%;
-}
-.skills-content .right .ts::before{
-    width: 70%;
-}
-.skills-content .left .react::before{
-    width: 50%;
-}
-.skills-content .right .angular::before{
-    width: 50%;
-}
-.skills-content .left .sass::before{
-    width: 50%;
-}
-.skills-content .right .php::before{
-    width: 50%;
-}
-.skills-content .left .wordpress::before{
-    width: 90%;
-}
-.skills-content .right .ui-ux::before{
-    width: 50%;
-}
-.skills-content .left .git::before{
-    width: 70%;
-}
-.skills-content .right .photoshop::before{
-    width: 90%;
-}
-.skills-content .left .illustrator::before{
-    width: 70%;
-}
-.skills-content .right .mo::before{
-    width: 90%;
-}
-
 /* contact section styling */
 .contact .title::after{
     content: "get in touch";
